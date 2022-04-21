@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Chocopie",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/chocopie.jpg",
+        "weight": "150g x 16Pcs/Ctn"
+    },
+    {
+        "name": "Chocopie",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/chocopie.png",
+        "weight": "180g x 16Pcs/Ctn"
+    },
+    {
+        "name": "Funmix (Munchy’s)",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Funmix%20(Munchy%E2%80%99s).jpg",
+        "weight": "700g x 6 Pac/Ctn"
+    },
+    {
+        "name": "Funmix (Munchy’s)",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Funmix%20(Munchy%E2%80%99s).png",
+        "weight": "295g x 12Pac/Ctn"
+    },
+    {
+        "name": "Gatorade",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Gatorade%202.jpg",
+        "weight": "500ml x 24Pet/Ctn"
+    },
+    {
+        "name": "Gatorade",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Gatorade.jpg",
+        "weight": "500ml x 24Pet/Ctn"
+    },
+    {
+        "name": "HORLICKS",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/HORLICKS.jpg",
+        "weight": "2kg x 6 Tin Container/Ctn"
+    },
+    {
+        "name": "KOKOKRANCH",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/HORLICKS.png",
+        "weight": "300g x 12 Jar/Ctn"
+    },
+    {
+        "name": "Iko Cracker",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Iko%20Cracker%202.jpg",
+        "weight": "220gm x 12 Pac/Ctn"
+    },
+    {
+        "name": "Iko Cracker",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Iko%20Craker.png",
+        "weight": "178g x 12 Pac/Ctn"
+    },
+    {
+        "name": "KOKOKRANCH",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/KOKOKRANCH.png",
+        "weight": "300g x 12 Jar/Ctn"
+    },
+    {
+        "name": "Oat Krunch",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Oat%20Krunch.jpg",
+        "weight": "208g x 12 Pac/Ctn"
+    },
+    {
+        "name": "Oat Krunch",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Oat%20Krunch.jpg",
+        "weight": "208gm x 12 Pac/Ctn"
+    },
+    {
+        "name": "QUAKER INSTANT OATMEAL",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/QUAKER%20INSTANT%20OATMEAL.jpg",
+        "weight": "1kg x 12 Jar/Ctn"
+    },
+    {
+        "name": "Topmix (Munchy’s)",
+        "image": "https://astounding-gnome-0896d2.netlify.app/products/Topmix%20(Munchy%E2%80%99s)%202.jpg",
+        "weight": "295g x 12Pac/Ctn"
+    }
+]
